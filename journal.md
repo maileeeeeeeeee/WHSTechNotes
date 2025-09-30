@@ -13,3 +13,5 @@ A Ai Project that i would like to invent is a Ai chat bot that could be a therap
 
 # September 22, 2025
 IKEA paying players real money is a bad idea. People who actually work in ikea getting paid the same amount of money of people who sit in their home playing roblox is unfair to those who work. The workers get up early to work multipe hours a week and try to provide themselves a home and food and someworkers for their whole family. If i ran ikea want to provide a fun way to work in ikea with roblox i would change the payment to 1.50 or 2.10 an hour becaus in reality tey are not really working but just playing a game.
+ # September 30, 2025
+ the phrase "6, 7" Truly does not mean anything it is just a popular lyrics from the song "Skrilla" by Doot Doot. The reason why students say it and the tone is sometimes to describe something for example a student can say "I drank My soda 6-7 times" or they could say "My Soda was 6-7 dollars"
