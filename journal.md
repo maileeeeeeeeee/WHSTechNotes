@@ -29,3 +29,7 @@ Markdown Table
 | Franklin |  Second    |    91A  |
 | Hardeep  |   Third    |   61F   |
 | Marla    |   First    |   35B   |
+
+
+# October 27,2025
+ Technology can be helpful because it can give us a prediction and an idea of what to expect from the natural disaster. By giving us an idea what can happen we can plan and prepare ahead to stay safe. For example when Scientist gave out for the Hurricane Milton Recently it gave people time to move out. Technology can also help us see where the hurricane is located and where it is going and predicts whereit could go next. Technology can also show the danger of the natural disaster by the color coding,example they use red for danger and green for safer.
