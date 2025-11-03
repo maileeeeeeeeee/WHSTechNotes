@@ -19,10 +19,10 @@ IKEA paying players real money is a bad idea. People who actually work in ikea g
  # October 8, 2025
  I Worked on the Classic Maze Angry Bird code
 
-# October 15,2025
+# October 15, 2025
 I Prompted The Canva Ai the create a Review and mini interactive quiz. I specifically said to typed to make it a "Colorful bright colors but not too strong". The reason was for strong colors can be oversimulating for some people. I made it to be for younger students like first graders so the review can be easy and direct.Canva did bring the exact idea i had in mind. The only thing that didint work out well was Some words were messed up like the font was messed up since its difficut to generate words sometimes. Other than the letters everything was good and it even generated a interactive image. Something i could improve next time is to add a feature of multiple languages so kids who speak other language  could also learn from it. Good promt engineering could be a sucessful career because compapanies could use fun interactive websites or images for marketing and you could get paid good money just for providing the idea and prompting it.
 
-# October 20,2025
+# October 20, 2025
 Markdown Table
 | Name     | Class | Seat |
 | :------- | :---- | :--- |
@@ -31,5 +31,5 @@ Markdown Table
 | Marla    |   First    |   35B   |
 
 
-# October 27,2025
+# October 27, 2025
  Technology can be helpful because it can give us a prediction and an idea of what to expect from the natural disaster. By giving us an idea what can happen we can plan and prepare ahead to stay safe. For example when Scientist gave out for the Hurricane Milton Recently it gave people time to move out. Technology can also help us see where the hurricane is located and where it is going and predicts whereit could go next. Technology can also show the danger of the natural disaster by the color coding,example they use red for danger and green for safer.
