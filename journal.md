@@ -33,3 +33,7 @@ Markdown Table
 
 # October 27, 2025
  Technology can be helpful because it can give us a prediction and an idea of what to expect from the natural disaster. By giving us an idea what can happen we can plan and prepare ahead to stay safe. For example when Scientist gave out for the Hurricane Milton Recently it gave people time to move out. Technology can also help us see where the hurricane is located and where it is going and predicts whereit could go next. Technology can also show the danger of the natural disaster by the color coding,example they use red for danger and green for safer.
+
+
+# November 3, 2025
+When SNAP funding runs out, it's a huge problem because millions of low-income families and especially kids and adults and older people can lose their main way to buy groceries. Technology could really help by creating a simple emergency app that uses your location if they allow it to and instantly show all the available food banks, pantries, and free meal sites nearby or even community food events to help families. This app could also show what items they have in stock. The biggest challenge for these solutions is how many people who need help don't have reliable internet access or a smartphone to use the app. We also need to be very careful with everyone's private information. If I were the designer, my tool would be called "alwaysfed" a basic website that quickly sends a text message with the addresses of nearby pantries and meal sites.
