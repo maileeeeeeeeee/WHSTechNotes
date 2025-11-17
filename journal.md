@@ -40,3 +40,5 @@ When SNAP funding runs out, it's a huge problem because millions of low-income f
 
 # November 10, 2025
 The most important thing I learned this semester was definitely how to plan ahead for all my big assignments. I finally got good at breaking down huge things like research papers into smaller steps instead of just waiting until the night before. This new habit proved that when I start early, I feel way less stressed and end up doing better quality work. Next year since things are going to be harder I want to use this more organized strategy to keep improving. I’ll make sure to use my planning system to manage new sports or clubs and keep my school life  or any hard school subjects under control. Basically, this skill will help me handle tougher classes and still have time for my own.
+# November 17, 2025
+I am very excited for thanksgiving break because we get alot of free time and we get to celebrate thanksgiving.
