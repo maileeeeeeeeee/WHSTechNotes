@@ -45,3 +45,7 @@ I am very excited for thanksgiving break because we get alot of free time and we
 
 # December 1, 2025
 Since drones are used for so much more than just deliveries, the job I think is the coolest is being a Drone Mapping Specialist. This role focuses on applied science and they plan flight paths to collect high resolution data on things like coastal erosion or wildlife habitats. Programming is essential because coders write the autonomous flight algorithms and which use computer vision for real time obstacle avoidance to enabling the drone to navigate intelligently like the Source is Unmanned Systems Technology. To work commercially, you have to get the FAA Part 107 license. After that, you get to work with specialized GIS and mapping software to process the large amounts of imagery. Plus the pay is pretty decent for starting out and since the average Drone Mapping salary in Texas is about $55,422 annually the (Source: ZipRecruiter, Nov 2025). I would definitely want to do this job in the future because it’s the perfect blend of tech and the outdoors, where my programming knowledge translates into measurable results.
+
+# December 17, 2025
+My plans for winter break is to get alot of presents on christmas and enjoy the break.
+
