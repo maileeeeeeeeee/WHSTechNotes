@@ -49,3 +49,5 @@ Since drones are used for so much more than just deliveries, the job I think is 
 # December 17, 2025
 My plans for winter break is to get alot of presents on christmas and enjoy the break.
 
+# January 6, 2026
+Over break the technology i used was my phone,ipad and tv. WIth my phone i was on calls and sending text messages which uses technology to conect with my friends. The tv uses the wifi to let me be able to watch videos and have good network. On my ipad i was playing a online game and was was able to play along with people from allover the world and be able to see people chat and connect despite being across the world.
