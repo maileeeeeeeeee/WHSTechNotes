@@ -51,3 +51,9 @@ My plans for winter break is to get alot of presents on christmas and enjoy the 
 
 # January 6, 2026
 Over break the technology i used was my phone,ipad and tv. WIth my phone i was on calls and sending text messages which uses technology to conect with my friends. The tv uses the wifi to let me be able to watch videos and have good network. On my ipad i was playing a online game and was was able to play along with people from allover the world and be able to see people chat and connect despite being across the world.
+
+
+# January 12, 2026
+
+# January 20, 2026
+One way technology can help create fairness is by giving everyone acess to information online . This matters because in the past only people with money for expensive books could learn about important things. Now anyone with a phone can look up their rights. An example of this could be how people use social media to film and share when they see something unfair happening in their community. This helps people get treated more fairly because the world can see the truth and it holds everyone accountable for their actions. Technology makes it harder for people to hiide injustice whih helps everyone in the end.
