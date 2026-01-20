@@ -54,6 +54,7 @@ Over break the technology i used was my phone,ipad and tv. WIth my phone i was o
 
 
 # January 12, 2026
+Autocraft was created as a privete minecraft server for kids with autism to play witout being bullied. it solves the problem of regular online games having too many peopl to harras and exclude players for being different. Safe spaces like this needed because without moderation people can say really rude things and might make the other player feel sad and unsafe. Developers have responsibility to design those spaces becuasse if they leave safety up to the users bullying will continue. Autocraft uses clear rules and uses a strong community to make sure everyone feels comfoterble being themselves.if developers ignore safety then people woulnt want to even play games online anymore
 
 # January 20, 2026
 One way technology can help create fairness is by giving everyone acess to information online . This matters because in the past only people with money for expensive books could learn about important things. Now anyone with a phone can look up their rights. An example of this could be how people use social media to film and share when they see something unfair happening in their community. This helps people get treated more fairly because the world can see the truth and it holds everyone accountable for their actions. Technology makes it harder for people to hiide injustice whih helps everyone in the end.
