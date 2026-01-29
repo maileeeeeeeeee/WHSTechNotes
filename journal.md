@@ -58,3 +58,6 @@ Autocraft was created as a privete minecraft server for kids with autism to play
 
 # January 20, 2026
 One way technology can help create fairness is by giving everyone acess to information online . This matters because in the past only people with money for expensive books could learn about important things. Now anyone with a phone can look up their rights. An example of this could be how people use social media to film and share when they see something unfair happening in their community. This helps people get treated more fairly because the world can see the truth and it holds everyone accountable for their actions. Technology makes it harder for people to hiide injustice whih helps everyone in the end.
+
+# January 29, 2026
+The test i took was the MAP, It was not too challenging and not too easy, and I feel like i did great because my scores are where they are supposed to be. I will Study and work harder to get better scores next time.
