@@ -61,3 +61,6 @@ One way technology can help create fairness is by giving everyone acess to infor
 
 # January 29, 2026
 The test i took was the MAP, It was not too challenging and not too easy, and I feel like i did great because my scores are where they are supposed to be. I will Study and work harder to get better scores next time.
+
+# February 2, 2026
+Personal Hygine is very important in a shared enviroments, We want to keep pur sapace safe,clean and organized and it is important if we start with oourselves first. Loud Conversations,sromg smells and distracting behavior is very important because Its disrupting other peoples enviroment, smells can trigger someones allergy and make it hard on them and loud conversation and behvaiors and disrupt someones concertration and state.  In a shared enviroment our expectations should be calm,respectful and clean. Controling yourslef is important skill for workplaces so you can be able to work in different places and work with different people with no problem. A habit i can improve is having better communication with those around me.
