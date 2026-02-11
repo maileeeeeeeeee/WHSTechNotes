@@ -64,3 +64,5 @@ The test i took was the MAP, It was not too challenging and not too easy, and I 
 
 # February 2, 2026
 Personal Hygine is very important in a shared enviroments, We want to keep pur sapace safe,clean and organized and it is important if we start with oourselves first. Loud Conversations,sromg smells and distracting behavior is very important because Its disrupting other peoples enviroment, smells can trigger someones allergy and make it hard on them and loud conversation and behvaiors and disrupt someones concertration and state.  In a shared enviroment our expectations should be calm,respectful and clean. Controling yourslef is important skill for workplaces so you can be able to work in different places and work with different people with no problem. A habit i can improve is having better communication with those around me.
+# February 10, 2026
+I dont play football but its very intresting and entertaining to watch, I watched The Super Bowl LX only the Halftime show. I liked the halftime show it shows how beatiful a culture can be and i loved how it represented my own culture.
