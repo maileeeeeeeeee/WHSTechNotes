@@ -66,3 +66,23 @@ The test i took was the MAP, It was not too challenging and not too easy, and I 
 Personal Hygine is very important in a shared enviroments, We want to keep pur sapace safe,clean and organized and it is important if we start with oourselves first. Loud Conversations,sromg smells and distracting behavior is very important because Its disrupting other peoples enviroment, smells can trigger someones allergy and make it hard on them and loud conversation and behvaiors and disrupt someones concertration and state.  In a shared enviroment our expectations should be calm,respectful and clean. Controling yourslef is important skill for workplaces so you can be able to work in different places and work with different people with no problem. A habit i can improve is having better communication with those around me.
 # February 10, 2026
 I dont play football but its very intresting and entertaining to watch, I watched The Super Bowl LX only the Halftime show. I liked the halftime show it shows how beatiful a culture can be and i loved how it represented my own culture.
+
+# March 2, 2026
+job 1 
+Company : Astrion
+Job title : Network Engineer
+Educcation Required : Bachelors Degree In Computer Science,Information Technology or any related field.
+Experience Required : 3-7 years in Network design,configuration,troubleshooting
+Skills,tools,languages : Cisco ISE,Solar Winds,DNA Center,Cisco Meraki and Visio for diagramming.
+Certifications : CompTIA Security+ CCNA/CCNP
+Jobs purpose :A Network Engineer is does design, installation and maintenance of both physical and virtual network infrastructures to ensure secure and high speed data flow.
+
+Job 2 
+Company: University Health
+Job Title: Systems Administrator
+Education Required: Bachelor’s degree in Computer Science, MIS or any related field
+Experience Required: 3–5 years of experience managing enterprise-level server environments and virtualized infrastructure.
+Skills,tools,languages : OS,Virtualization,cloud,Automation,Directory Services
+Certifications: CompTIA Security+, Microsoft Certified (Azure Administrator Associate or VCP
+
+I would Prefer to be a network Engineer, I have the ability to design and do physical and virtual work and to scure a good speed and data flow. Learning how to work the data and designing can help me get better at those skils and work on bigger projects surrounding that field and the skills i learned from it.
