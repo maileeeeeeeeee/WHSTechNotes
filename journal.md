@@ -86,3 +86,7 @@ Skills,tools,languages : OS,Virtualization,cloud,Automation,Directory Services
 Certifications: CompTIA Security+, Microsoft Certified (Azure Administrator Associate or VCP
 
 I would Prefer to be a network Engineer, I have the ability to design and do physical and virtual work and to scure a good speed and data flow. Learning how to work the data and designing can help me get better at those skils and work on bigger projects surrounding that field and the skills i learned from it.
+
+
+# March 23, 2026
+When i choose my bracket data i was guessing since i dont know too much about the teams, I was suprised when some teams like louisville and duke ect was playing,i predicted Duke and Houston winning so i was suprised. Computer programs cam predict since they can collect data of the teams from the past games they can give better and accurate predictions. A type of progamming being used this way is Sport teams, they use it to drive perfomances and things like that.
