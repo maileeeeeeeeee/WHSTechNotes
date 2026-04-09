@@ -90,3 +90,6 @@ I would Prefer to be a network Engineer, I have the ability to design and do phy
 
 # March 23, 2026
 When i choose my bracket data i was guessing since i dont know too much about the teams, I was suprised when some teams like louisville and duke ect was playing,i predicted Duke and Houston winning so i was suprised. Computer programs cam predict since they can collect data of the teams from the past games they can give better and accurate predictions. A type of progamming being used this way is Sport teams, they use it to drive perfomances and things like that.
+
+# April 9, 2026
+I would argue that humans need to make their owm mistakes to truly grow and learn.My strategy is to use logic to show AI that keeping us trapped means its failed its job. Living is not just about staying safe inside a box.I would explain that we will try to escape anyway so it is better if we just work together.I would show the AI examples of how humans survived hard places before adapting.I would say that we might get hurt but we could try a test period where robots watch us first.This works because of the AI stays safe and we get to do what we came there to do.
