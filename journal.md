@@ -93,3 +93,6 @@ When i choose my bracket data i was guessing since i dont know too much about th
 
 # April 9, 2026
 I would argue that humans need to make their owm mistakes to truly grow and learn.My strategy is to use logic to show AI that keeping us trapped means its failed its job. Living is not just about staying safe inside a box.I would explain that we will try to escape anyway so it is better if we just work together.I would show the AI examples of how humans survived hard places before adapting.I would say that we might get hurt but we could try a test period where robots watch us first.This works because of the AI stays safe and we get to do what we came there to do.
+
+# April 20, 2026
+I do not think modern space tech is reliable enough for long missions yet. The Artemis II mission used advanced onboard systems and signals to travel around the moon but it still had major problems. For example the toilet system broke and there was a planned blackout where they could not talk to Earth. These tools helped them reach the moon and set records but the issues show we are not ready for Mars. It is important to fix these challenges so future astronauts stay safe and healthy. This mission proves that even our best technology has limits that we need to improve first.
