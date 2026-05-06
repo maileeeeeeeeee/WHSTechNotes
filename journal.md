@@ -57,7 +57,7 @@ Over break the technology i used was my phone,ipad and tv. WIth my phone i was o
 Autocraft was created as a privete minecraft server for kids with autism to play witout being bullied. it solves the problem of regular online games having too many peopl to harras and exclude players for being different. Safe spaces like this needed because without moderation people can say really rude things and might make the other player feel sad and unsafe. Developers have responsibility to design those spaces becuasse if they leave safety up to the users bullying will continue. Autocraft uses clear rules and uses a strong community to make sure everyone feels comfoterble being themselves.if developers ignore safety then people woulnt want to even play games online anymore
 
 # January 20, 2026
-One way technology can help create fairness is by giving everyone acess to information online . This matters because in the past only people with money for expensive books could learn about important things. Now anyone with a phone can look up their rights. An example of this could be how people use social media to film and share when they see something unfair happening in their community. This helps people get treated more fairly because the world can see the truth and it holds everyone accountable for their actions. Technology makes it harder for people to hiide injustice whih helps everyone in the end. i use ai
+One way technology can help create fairness is by giving everyone acess to information online . This matters because in the past only people with money for expensive books could learn about important things. Now anyone with a phone can look up their rights. An example of this could be how people use social media to film and share when they see something unfair happening in their community. This helps people get treated more fairly because the world can see the truth and it holds everyone accountable for their actions. Technology makes it harder for people to hiide injustice whih helps everyone in the end. 
 
 # January 29, 2026
 The test i took was the MAP, It was not too challenging and not too easy, and I feel like i did great because my scores are where they are supposed to be. I will Study and work harder to get better scores next time.
@@ -85,7 +85,7 @@ Experience Required: 3–5 years of experience managing enterprise-level server 
 Skills,tools,languages : OS,Virtualization,cloud,Automation,Directory Services
 Certifications: CompTIA Security+, Microsoft Certified (Azure Administrator Associate or VCP
 
-I would Prefer to be a network Engineer, I have the ability to design and do physical and virtual work and to scure a good speed and data flow. Learning how to work the data and designing can help me get better at those skils and work on bigger projects surrounding that field and the skills i learned from it. 
+I would Prefer to be a network Engineer, I have the ability to design and do physical and virtual work and to scure a good speed and data flow. Learning how to work the data and designing can help me get better at those skils and work on bigger projects surrounding that field and the skills i learned from it. i use ai
 
 
 # March 23, 2026
